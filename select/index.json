@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ジュブナイル",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-15T13:43:37.357959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジュブナイル",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_ジュブナイル_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジュブナイル",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_ジュブナイル_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジュブナイル",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_ジュブナイル_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジュブナイル",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_ジュブナイル_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジュブナイル",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_ジュブナイル_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジュブナイル",
+      "artist": "Dixie Flatline",
+      "has_synced": false,
+      "path": "select/06_ジュブナイル_Dixie_Flatline.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジュブナイル",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_ジュブナイル_ReoNa.txt"
+    }
+  ]
+}
